@@ -2,7 +2,7 @@ import pandas as pd
 
 orders = {
     'order_number': [1, 2, 3, 4],
-    'customer_number': [1, 2, 3, 3]
+    'customer_number': [1, 2, 3, 3],
 }
 
 df = pd.DataFrame(orders)
